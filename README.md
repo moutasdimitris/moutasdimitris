@@ -3,7 +3,7 @@
 ![<username>'s Stats](https://github-readme-stats.vercel.app/api?username=moutasdimitris&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,laravel,android,ios)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,laravel,java,kotlin,nodejs,python,figma)](https://skillicons.dev)
 
 
 
